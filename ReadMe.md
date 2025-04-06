@@ -1,5 +1,5 @@
 # 💫 About Me:
-UFC | Redes De Computadres
+UFC | Redes De Computadores
 
 
 # 💻 Tech Stack:
